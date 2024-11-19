@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3421d2a099f349a792f244f84909c985/artifacts
+end_time: 1731951433471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3421d2a099f349a792f244f84909c985
+run_name: calm-bear-363
+run_uuid: 3421d2a099f349a792f244f84909c985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731951430506
+status: 4
+tags: []
+user_id: ASUS

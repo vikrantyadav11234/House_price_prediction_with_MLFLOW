@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3314cd64114b4cde833176564e38373a/artifacts
+end_time: 1731951708537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3314cd64114b4cde833176564e38373a
+run_name: bedecked-croc-261
+run_uuid: 3314cd64114b4cde833176564e38373a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731951614218
+status: 3
+tags: []
+user_id: ASUS

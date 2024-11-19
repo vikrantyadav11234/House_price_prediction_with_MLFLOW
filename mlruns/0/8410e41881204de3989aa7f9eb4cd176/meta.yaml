@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8410e41881204de3989aa7f9eb4cd176/artifacts
+end_time: 1731950926022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8410e41881204de3989aa7f9eb4cd176
+run_name: powerful-zebra-119
+run_uuid: 8410e41881204de3989aa7f9eb4cd176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731950922961
+status: 4
+tags: []
+user_id: ASUS
